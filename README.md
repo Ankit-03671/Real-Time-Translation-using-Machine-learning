@@ -135,7 +135,7 @@ Real-Time-Translation-using-Machine-learning/
 
 <br><h2>📧 Contact & Support</h2>
 
-If you encounter any issues, feel free to open an issue on GitHub or reach out via email at abhishekkameri47@gmail.com.
+If you encounter any issues, feel free to open an issue on GitHub or reach out via email at ankitavaragol@gmail.com.
 
 Code with fun! 🚀
 
